@@ -16,7 +16,7 @@ central core rights and requirements of GPLv2.
 
 ## GPLv2 §2: Share and Share Alike
 
-## GPLv2第2：共享且以相同方式共享
+## GPLv2第2条：共享且以相同方式共享
 
 For many, this is where the "magic" happens that defends software
 freedom upon redistribution. GPLv2 2 is the only place in GPLv2 that
