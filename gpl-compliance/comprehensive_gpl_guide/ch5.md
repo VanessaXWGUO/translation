@@ -1,16 +1,18 @@
 
 []{#_bookmark56 .anchor}**CHAPTER 5**
+
 **第五章**
 
 MODIFIED SOURCE AND BINARY DISTRIBUTION
+
 修改后的源代码及二进制的分发
 
 In this chapter, we discuss the two core sections that define the
 rights and obligations for those who modify, improve, and/or
 redistribute GPL'd software. These sections, GPLv2 2--3, define the
 central core rights and requirements of GPLv2.
-在本章中，我们将讨论两个核心篇章，以定义修改、改进和/或重新分发GPL下软件的权利及义务。该篇章中，GPLv2第2至3条款，定义了GPLv2的中心核心权利及要求。
 
+在本章中，我们将讨论两个核心篇章，以定义修改、改进和/或重新分发GPL下软件的权利及义务。该篇章中，GPLv2第2至3条款，定义了GPLv2的中心核心权利及要求。
 
 ## GPLv2 §2: Share and Share Alike
 
