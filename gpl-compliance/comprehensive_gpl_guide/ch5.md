@@ -12,9 +12,11 @@ rights and obligations for those who modify, improve, and/or
 redistribute GPL'd software. These sections, GPLv2 2--3, define the
 central core rights and requirements of GPLv2.
 
-在本章中，我们将讨论两个核心篇章，以定义修改、改进和/或重新分发GPL下软件的权利及义务。该篇章中，GPLv2第2至3条款，定义了GPLv2的中心核心权利及要求。
+在本章中，我们将讨论两个核心篇章，以定义修改、改进和/或重新分发GPL下软件的人的权利及义务。该篇章中，GPLv2第2至3条款，定义了GPLv2的中心核心权利及要求。
 
 ## GPLv2 §2: Share and Share Alike
+
+## GPLv2第2：共享且以相同方式共享
 
 For many, this is where the "magic" happens that defends software
 freedom upon redistribution. GPLv2 2 is the only place in GPLv2 that
@@ -26,9 +28,9 @@ Free as in freedom. To achieve that goal, GPLv2 2 first sets forth
 that the rights of redistribution of modified versions are the same as
 those for verbatim copying, as presented in GPLv2 1. Therefore, the
 details of charging money, keeping copyright notices intact, and other
-GPLv2 1 provisions are intact here as well. However, there are
+GPLv2 1 provisions are intact here as well. However, there are three additional requirements.
 
-three additional requirements.
+
 
 ### The Simpler Parts of GPLv2 §2
 
