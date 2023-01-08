@@ -30,9 +30,10 @@ those for verbatim copying, as presented in GPLv2 1. Therefore, the
 details of charging money, keeping copyright notices intact, and other
 GPLv2 1 provisions are intact here as well. However, there are three additional requirements.
 
-
+对许多人来说，在重新分发时捍卫软件自由，这即为“魔法”发生的地方。GPLv2第2条是GPLv2中唯一对版权法上的修改控制进行约束的地方。如果用户分发GPLv2程序的修改版本，那么他们必须遵守GPLv2第2条的条款来进行修改。因此，本节确保GPL软件主体（随其延续与发展）仍可保持“自由”。为实现该目标，GPLv2第2条首先规定，再分发修改版本的权利，与GPLv2第1条所述的再分发逐字复制版本的权利相同。那么，收费的细节、保持版权声明完整性，以及其他GPLv2第1条的规定在此处也是完整的。但是，多了三个额外要求。
 
 ### The Simpler Parts of GPLv2 §2
+### GPLv2第2条中的简单部分
 
 The first (GPLv2 2(a)) requires that modified files carry "prominent
 notices" explaining what changes were made and the date of such
@@ -48,6 +49,8 @@ make proper support choices. Finally, GPLv2 2(a) serves an academic
 purpose --- ensuring that future developers can use a diachronic
 approach to understand the software.
 
+第1款（GPLv2第2条(a)款）要求修改后的文件含有“醒目声明”，说明做了哪些修改和修改日期。该条款并未规定标记修改的一些具体方式，也未控制如何进行修改的流程。GPLv2第2条(a)款主要是试图确保那些收到修改版本的人知悉软件的修改历史。对于一些用户而言，知悉其使用的是程序的标准版本是很重要的，因为虽然使用分支版本（fork）有很多益处，但也有一些弊端。用户应该被告知其所使用的软件版本的历史背景，这样他们才能做出正确的支持选择。最后，GPLv2第2条(a)款有个学术目的————即确保未来开发者可以使用一个考虑历史演变的方法去理解软件。
+
 GPLv2 2(c), a relatively simple section, requires that any program
 which (before modification) "normally reads commands interactively
 when run" and displays or prints legal information also display all
@@ -57,13 +60,18 @@ relatively simple, and relates to an important policy goal of
 copyleft: downstream users should be informed of their rights. Its
 implications and details are straightforward and simple.
 
+GPLv2第2条(c)款是一个相对简单的部分，它要求任何（在修改之前）“在运行时通常通过交互方式读取命令”并展示或刊载法律信息的程序，即便在其修改后的版本中，也要展示所有的版权声明、无担保声明、修改指引和对许可证的指向。这个要求相对简单，且与著佐权的一个重要政策目标相关：下游用户应该被告知他们所享有的权利。该条款的含义及细节是直接且简单的。
+
 ### GPLv2 §2(b)
+### GPLv2第2条(b)款
 
 Meanwhile, GPLv2 2(b) requires careful and extensive study. Its four
 short lines embody the some of the essential legal details of "share
 and share alike". These 46 words are considered by some to be the most
 worthy of careful scrutiny because they can be a source of great
 confusion when not properly understood.
+
+同时，GPLv2第2条(b)款需要仔细且广泛的研究。其四个短句体现了“共享且以相同方式共享”的核心法律细节。这46个词被一些人认为是最值得仔细研究的，因为在未正确理解的情况下，它们可能是极大困惑的来源。
 
 In considering GPLv2 2(b), first note the qualifier: it *only* applies
 to derivative, combined and/or modified works that "you distribute or
@@ -74,15 +82,21 @@ apply if** the changes are never distributed. Indeed, the freedom to
 make private, personal, unshared changes to software for personal use
 only should be protected and defended.[^1^](#_bookmark60)
 
+在考虑GPLv2第2条(b)时，首先注意限定词：它*仅仅* 适用于“您分发或发布”的衍生作品、组合作品和/或修改后的作品。尽管在该问题上进行了多年的教育工作，许多人仍然认为，GPL软件的修改者*必须*发布或以其他方式分享他们的修改。相反，如果这些修改从未被分发，则GPLv2第2条(b)款**并不适用**。事实上，仅供个人使用目的对软件进行私人的、个人的、不共享的修改的自由，应当得到保护和捍卫。[^1^](#_bookmark60)
+
 Next, we again encounter the same matter that appears in GPLv2 *§*0,
 in the following text: "\...that in whole or part contains or is
 derived from the Program or any part thereof."
+
+接下来，我们又遇到了在GPLv2第0条中出现的相同问题，*即以下文字：“\……其全部或其部分包含或衍生自本程序或其任何部分”。*
 
 Again, the GPL relies here on copyright law. If, under copyright law,
 the modified version "contains or is derived from" the GPL'd software,
 then the requirements of GPLv2 2(b) apply. The GPL invokes its control
 as a copyright license over the modification of the work in
 combination with its control over distribution of the work.
+
+同样，GPL在此依赖版权法。如果，根据版权法，修改后的版本“包含或系衍生自”GPL软件，那么GPLv2第2(b)的要求就适用。GPL将其作为一个版权许可而对作品修改的控制与对作品分发的控制相结合起来。
 
 The final clause of GPLv2 2(b) describes what the licensee must do if
 she distributes or publishes a modified version of the work ---
